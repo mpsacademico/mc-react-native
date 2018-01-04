@@ -21,6 +21,17 @@ sudo npm install -g react-native-cli
 
 Não é possível configurar este ambiente de desenvolvimento no Linux.
 
+## Criando o projeto
+
+```
+react-native init FirstProject
+
+cd FirstProject
+react-native run-android
+```
+
 ## Referências
 
 https://www.digitalocean.com/community/tutorials/como-instalar-o-node-js-no-ubuntu-16-04-pt
+
+http://code.rocketseat.com.br/assets/files/ambiente-de-desenvolvimento-rn.pdf

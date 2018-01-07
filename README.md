@@ -15,7 +15,12 @@ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 sudo npm install -g react-native-cli
+
+sudo apt-get install default-jdk
 ```
+
+Para baixar depências do projeto usar o comando `npm install` no root do projeto.
+
 
 ### iOS
 

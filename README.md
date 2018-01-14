@@ -1,6 +1,6 @@
-# Minicurso React Native
+# React Native - First Project
 
-React Native uma biblioteca criada pelo Facebook que escrever código Javascript e construir uma aplicação nativa (não híbrida) para iOS e Android. (Aplicação de repositórios favoritos)
+React Native uma biblioteca criada pelo Facebook que escreve código Javascript e constrói uma aplicação nativa (não híbrida) para iOS e Android.
 
 ## Ambiente de Desenvolvimento no Linux
 
@@ -21,7 +21,6 @@ sudo apt-get install default-jdk
 
 Para baixar depências do projeto usar o comando `npm install` no root do projeto.
 
-
 ### iOS
 
 Não é possível configurar este ambiente de desenvolvimento no Linux.
@@ -37,6 +36,5 @@ react-native run-android
 
 ## Referências
 
-https://www.digitalocean.com/community/tutorials/como-instalar-o-node-js-no-ubuntu-16-04-pt
-
+https://www.digitalocean.com/community/tutorials/como-instalar-o-node-js-no-ubuntu-16-04-pt  
 http://code.rocketseat.com.br/assets/files/ambiente-de-desenvolvimento-rn.pdf

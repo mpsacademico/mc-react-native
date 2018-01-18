@@ -1,6 +1,6 @@
 # React Native - First Project
 
-React Native uma biblioteca criada pelo Facebook que escreve código Javascript e constrói uma aplicação nativa (não híbrida) para iOS e Android.
+React Native uma biblioteca criada pelo Facebook que escreve código Javascript e constrói uma aplicação nativa (não híbrida) para iOS e Android. FirstProject é um aplicativo para testar as funcionalidades disponíveis na biblioteca.
 
 ## Ambiente de Desenvolvimento no Linux
 
